@@ -3,7 +3,7 @@
 ## About Me
 
 Hello, my name is **Dayyaan Francis**.
-I am an **Information Technology student specializing in Applications Development**.
+I am an **Information Technology student at CPUT specializing in Applications Development**.
 
 This portfolio contains my **Curriculum Vitae (CV)** and my **Mock Interview Video**, which form part of my professional development portfolio.
 
