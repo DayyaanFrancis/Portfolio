@@ -1,57 +1,35 @@
 # Dayyaan Francis – GitHub Portfolio
 
 ## About Me
-Hello, my name is **Dayyaan Francis**.  
-I am an **Information Technology student at CPUT specializing in Applications Development**.  
 
-This portfolio showcases some of my academic repositories, as well as my **Curriculum Vitae (CV)** and **Mock Interview Video**.
+Hello, my name is **Dayyaan Francis**.
+I am an **Information Technology student specializing in Applications Development**.
 
----
-
-## Projects and Assignments
-
-Below are some of the repositories that demonstrate my coursework and programming practice:
-
-### 1. Hair Salon Management System
-A system designed to manage salon operations such as appointments, services, and customer information.
-
-🔗 Repository Link:  
-https://github.com/DayyaanFrancis/hairSalonManagmentSystem
-
-### 2. Library Management System
-A concept system for managing books, members, and borrowing records within a library environment.
-
-🔗 Repository Link:  
-https://github.com/DayyaanFrancis/LibraryManagementSystem
-
-### 3. Student Portal App
-A conceptual student portal application designed to demonstrate basic system structure and application features.
-
-🔗 Repository Link:  
-https://github.com/DayyaanFrancis/StudentPortalApp
+This portfolio contains my **Curriculum Vitae (CV)** and my **Mock Interview Video**, which form part of my professional development portfolio.
 
 ---
 
 ## Curriculum Vitae (CV)
 
-You can download and view my CV here:
+You can view or download my CV below:
 
-📄 CV Link:  
-https://github.com/DayyaanFrancis/Portfolio/blob/main/DayyaanFrancisCVmain.pdf
+[Download My CV](https://github.com/DayyaanFrancis/Portfolio/blob/main/DayyaanFrancisCVmain.pdf)
 
 ---
 
 ## Mock Interview Video
 
-My mock interview video can be viewed using the link below:
+Below is my mock interview recording.
 
-🎥 Interview Video:  
-https://drive.google.com/file/d/1tYdPMadVOnTODiZgwkTXt4J6aNk6mEnV/view?usp=drive_link
+<iframe src="https://drive.google.com/file/d/1tYdPMadVOnTODiZgwkTXt4J6aNk6mEnV/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 
 ## Contact Information
 
-**Name:** Dayyaan Francis  
-**Field:** Information Technology – Applications Development  
-**GitHub:** https://github.com/DayyaanFrancis
+**Name:** Dayyaan Francis
+**Field:** Information Technology – Applications Development
+
+GitHub Profile:
+https://github.com/DayyaanFrancis
+
