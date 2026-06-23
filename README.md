@@ -3,9 +3,34 @@
 ## About Me
 
 Hello, my name is **Dayyaan Francis**.
-I am an **Information Technology student at CPUT specializing in Applications Development**.
 
-This portfolio contains my **Curriculum Vitae (CV)** and my **Mock Interview Video**, which form part of my professional development portfolio.
+I am a third-year **Information and Communication Technology (Applications Development)** student at the Cape Peninsula University of Technology (CPUT). This portfolio showcases my technical skills, work readiness training, and professional development.
+
+---
+
+## Technical Projects
+
+### Hair Salon Management System
+
+Academic group project developed as part of Applications Development Practice. The system was designed to manage appointments and salon operations using software engineering principles and industry best practices.
+
+**Technologies Used:**
+
+* Java
+* Maven
+* GitHub
+* Test-Driven Development (TDD)
+* Factory Pattern
+* Repository Pattern
+
+*Repository is currently private as the project is still under development.*
+
+### Vehicle Management System
+
+A Spring Boot application demonstrating object-oriented programming, repositories, services, controllers, testing, and database integration.
+
+**Repository Link:**
+[Vehicle Management System](https://github.com/DayyaanFrancis/vehicle-system)
 
 ---
 
@@ -13,7 +38,7 @@ This portfolio contains my **Curriculum Vitae (CV)** and my **Mock Interview Vid
 
 You can view or download my CV below:
 
-[Download My CV](https://github.com/DayyaanFrancis/Portfolio/blob/main/DayyaanFrancisCVmain.pdf)
+📄 [Download My CV](https://github.com/DayyaanFrancis/Portfolio/blob/main/DayyaanFrancisCVmain.pdf)
 
 ---
 
@@ -28,54 +53,68 @@ Below is my mock interview recording.
 ## Contact Information
 
 **Name:** Dayyaan Francis
+
 **Field:** Information Technology – Applications Development
 
-GitHub Profile:
-https://github.com/DayyaanFrancis
+**GitHub Profile:**
+[DayyaanFrancis](https://github.com/DayyaanFrancis)
+
 ---
 
 ## Reflection on Coding in Markdown (STAR)
 
-**Situation:**  
-I was required to create a digital portfolio using GitHub and Markdown.
+### Situation
 
-**Task:**  
-My task was to learn and apply Markdown to structure my portfolio professionally.
+I was required to create a digital portfolio using GitHub and Markdown as part of my work readiness training.
 
-**Action:**  
-I used headings, links, and formatting techniques in Markdown to organize my portfolio content clearly and effectively.
+### Task
 
-**Result:**  
-I successfully created a structured and readable portfolio, and I improved my understanding of Markdown for web-based documentation.
+My task was to learn and apply Markdown to create a professional portfolio that would showcase evidence of my learning, skills, and development.
+
+### Action
+
+I used Markdown formatting such as headings, hyperlinks, sections, and embedded content to structure my portfolio in a clear and professional manner.
+
+### Result
+
+I successfully created a well-organised portfolio and improved my understanding of Markdown as a tool for technical documentation and professional presentation.
 
 ---
 
-## Reflection on Mock Interview (STAR)
+## Reflection on Mock Interview Video (STAR)
 
-**Situation:**  
-I had to record a mock interview as part of my work readiness training.
+### Situation
 
-**Task:**  
-My task was to answer interview questions professionally and present myself appropriately.
+As part of the work readiness programme, I was required to participate in and record a mock interview.
 
-**Action:**  
-I prepared answers beforehand and practiced delivering them clearly, although I occasionally referred to notes.
+### Task
 
-**Result:**  
-I gained confidence in interview situations and improved my communication skills, understanding areas where I can improve in future interviews.
+My task was to prepare for common interview questions and present myself professionally while demonstrating effective communication skills.
+
+### Action
+
+I researched potential interview questions, prepared responses, practised my delivery, and recorded the interview. This helped me become more aware of my communication style and areas for improvement.
+
+### Result
+
+The experience improved my confidence, communication skills, and understanding of professional interview expectations. I also identified areas where I can continue improving for future interviews.
 
 ---
 
 ## Reflection on GitHub Pages (STAR)
 
-**Situation:**  
-I needed to publish my portfolio using GitHub Pages.
+### Situation
 
-**Task:**  
-My task was to deploy my repository as a live website.
+I was required to publish my digital portfolio online using GitHub Pages.
 
-**Action:**  
-I configured GitHub Pages settings and linked my repository to a public URL.
+### Task
 
-**Result:**  
-I successfully published my portfolio online and learned how to deploy projects using GitHub Pages.
+My task was to deploy my portfolio so that it could be accessed through a live website and shared with lecturers and potential employers.
+
+### Action
+
+I configured GitHub Pages, linked it to my repository, tested the website, and ensured that all content, links, and embedded media were accessible.
+
+### Result
+
+I successfully published my portfolio online and gained practical experience in website deployment using GitHub Pages. This enhanced my understanding of how developers publish and share projects professionally.
