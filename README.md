@@ -242,4 +242,132 @@ As Developer, the backlog helped me understand the project's overall priorities 
 
 **Situation**
 
-Our project involved several different activities and deliverables that needed to
+Our project involved several different activities and deliverables that needed to be organised to ensure that the team could work towards completing the platform.
+
+**Task**
+
+My task was to understand the project's planned work and identify the development-related activities that contributed towards the overall objectives.
+
+**Action**
+
+I used the product backlog to follow the different sprint objectives and understand how technical development fitted into the wider project. This included reviewing website requirements, development tasks and the work that needed to be completed before the final launch.
+
+**Result**
+
+The product backlog helped me understand how Agile teams organise and prioritise work. It also improved my awareness of how individual development tasks contribute towards larger project milestones.
+
+---
+
+## 4. Sprint Backlog and Sprint 5 Checklist
+
+The sprint backlog provided a focused breakdown of the work assigned to individual sprints.
+
+Sprint 5 focused on website requirements, including:
+
+- Planning the website structure.
+- Developing the website.
+- Adding product pages.
+- Writing product descriptions.
+- Setting up payment methods.
+- Defining the frontend.
+- Testing website functionality.
+- Comparing website layouts.
+
+The sprint checklist allowed the team to monitor completed and outstanding tasks.
+
+As Developer, this was particularly relevant to my role because it focused on the technical development and functionality of the website.
+
+**Evidence – Sprint Backlog**
+
+![Sprint Backlog](images/Sprint%20Backlog.png)
+
+**Evidence – Sprint 5 Checklist**
+
+![Sprint 5 Checklist](images/Sprint%205%20Checklist.png)
+
+### STAR Reflection – Sprint Backlog and Sprint 5
+
+**Situation**
+
+During the development phase, the team needed to break down the larger project objectives into smaller and more manageable tasks.
+
+**Task**
+
+My responsibility was to contribute towards the technical development of the website and understand the specific tasks required to progress the project.
+
+**Action**
+
+I used the sprint backlog and Sprint 5 checklist to monitor website development activities. My focus was on understanding the website structure, product pages, frontend requirements, payment functionality and testing. I also documented my development progress and communicated with team members to ensure that the technical work aligned with the project's requirements.
+
+**Result**
+
+The sprint planning process improved my ability to work towards specific development goals and monitor progress. It also demonstrated the importance of task management, teamwork and completing development activities within an Agile sprint.
+
+---
+
+## 5. Agile Logbook
+
+The Agile logbook was used to record individual and team progress throughout the project.
+
+It included reflections on:
+
+- Work completed since the previous stand-up.
+- Tasks planned before the next stand-up.
+- Challenges, risks and impediments.
+- General project progress and outstanding activities.
+
+My entries reflected my involvement in website development, product backlog updates, branding discussions, reviewing project progress and ensuring that development activities remained aligned with the project objectives.
+
+**Evidence – Agile Logbook: Page 1**
+
+![Agile Logbook Page 1](images/Agile%20logbook.png)
+
+**Evidence – Agile Logbook: Page 2**
+
+![Agile Logbook Page 2](images/Agile%20logbook2.png)
+
+### STAR Reflection – Agile Logbook
+
+**Situation**
+
+Throughout the project, our team needed to maintain regular communication and monitor progress to ensure that planned activities were being completed.
+
+**Task**
+
+My responsibility was to document my progress, identify upcoming tasks and communicate any challenges that could affect the development process.
+
+**Action**
+
+I used the Agile logbook to record completed activities, including reviewing the product backlog, participating in branding and website discussions, and monitoring project progress. I also identified upcoming priorities, such as continuing website development, refining the prototype and preparing for sprint reviews.
+
+**Result**
+
+Maintaining the Agile logbook improved my understanding of progress tracking and accountability. It also helped me reflect on completed work, identify outstanding tasks and recognise the importance of communication within an Agile development team.
+
+---
+
+## Overall Semester 2 Reflection
+
+Working on the Perfume Velour Essence project provided me with practical experience of working within an Agile team environment.
+
+Through my role as Developer, I gained a better understanding of how project planning, user stories, system architecture, backlogs and sprint activities contribute towards software development.
+
+I also developed a greater appreciation for collaboration between different team roles, particularly how technical development must align with design, product requirements and business objectives.
+
+The experience strengthened my understanding of Agile methodologies and the importance of communication, accountability, organisation and continuous improvement throughout the software development lifecycle.
+
+It also helped me recognise the responsibilities involved in working as part of a development team and the importance of translating project requirements into functional software solutions.
+
+---
+
+## Portfolio Navigation
+
+[⬆ Back to Top](#dayyaan-francis--github-portfolio)
+
+[GitHub Profile](https://github.com/DayyaanFrancis)
+
+[View Live Portfolio](https://dayyaanfrancis.github.io/Portfolio/)
+
+---
+
+*Dayyaan Francis | ICT Applications Development | Cape Peninsula University of Technology*
