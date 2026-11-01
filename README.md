@@ -16,12 +16,12 @@ Academic group project developed as part of Applications Development Practice. T
 
 **Technologies Used:**
 
-* Java
-* Maven
-* GitHub
-* Test-Driven Development (TDD)
-* Factory Pattern
-* Repository Pattern
+- Java
+- Maven
+- GitHub
+- Test-Driven Development (TDD)
+- Factory Pattern
+- Repository Pattern
 
 *Repository is currently private as the project is still under development.*
 
@@ -30,6 +30,7 @@ Academic group project developed as part of Applications Development Practice. T
 A Spring Boot application demonstrating object-oriented programming, repositories, services, controllers, testing, and database integration.
 
 **Repository Link:**
+
 [Vehicle Management System](https://github.com/DayyaanFrancis/vehicle-system)
 
 ---
@@ -57,6 +58,7 @@ Below is my mock interview recording.
 **Field:** Information Technology – Applications Development
 
 **GitHub Profile:**
+
 [DayyaanFrancis](https://github.com/DayyaanFrancis)
 
 ---
@@ -118,3 +120,122 @@ I configured GitHub Pages, linked it to my repository, tested the website, and e
 ### Result
 
 I successfully published my portfolio online and gained practical experience in website deployment using GitHub Pages. This enhanced my understanding of how developers publish and share projects professionally.
+
+---
+
+# Semester 2 – Work Readiness Portfolio
+
+## Perfume Velour Essence – Custom Perfume Studio
+
+**Project Role:** Developer
+
+**Project Type:** Agile Group Project
+
+**Technologies and Methodologies:** React, Spring Boot, Java, REST API, Agile, Scrum, Trello and GitHub.
+
+### Project Overview
+
+Perfume Velour Essence is a custom perfume studio concept developed as part of a group project. The objective was to design and develop an online platform that allows customers to create personalised fragrances, customise perfume bottles and labels, and place orders through an online system.
+
+The project followed an Agile development approach, using team collaboration, sprint planning, user stories and continuous progress tracking.
+
+My assigned role within the team was **Developer**, with a focus on technical implementation and building the functional components of the proposed system.
+
+---
+
+## 1. Agile Team Charter
+
+The Agile Team Charter established the purpose, vision, responsibilities and working principles of our project team.
+
+My role was identified as Developer, with a focus on Technical Build. My responsibility was to write code and develop the functional components of the project based on the team's design and requirements.
+
+The charter also helped establish how the different team responsibilities connected, from product planning and design to technical development and marketing.
+
+**Evidence – Agile Team Charter**
+
+![Agile Team Charter – Page 1](images/Agile%20team%20charter.png)
+
+![Agile Team Charter – Page 2](images/Agile%20team%20charter2.png)
+
+### STAR Reflection – Agile Team Charter
+
+**Situation**
+
+At the beginning of the Perfume Velour Essence project, our team needed to establish clear responsibilities and understand how each member would contribute towards achieving the overall project objectives.
+
+**Task**
+
+As the assigned Developer, my responsibility was to focus on the technical development of the system and ensure that the proposed designs and requirements could be translated into functional software.
+
+**Action**
+
+I participated in defining my responsibilities within the team charter and familiarised myself with the roles of the other team members. I understood how my development responsibilities connected with the product owner's planning, the designer's layouts and the research and marketing activities.
+
+**Result**
+
+The team charter provided a clearer understanding of my responsibilities and how my contribution fitted into the overall project. It also helped establish accountability, collaboration and a shared direction for the development process.
+
+---
+
+## 2. User Stories and Architectural Solution
+
+User stories were created to identify the requirements and expectations of the different users of the Perfume Velour Essence platform.
+
+The user stories covered areas such as:
+
+- Custom scent creation.
+- Label and bottle personalisation.
+- Checkout and payments.
+- Customer accounts and order tracking.
+- Administration and operations.
+- Marketing and customer engagement.
+
+The architectural solution outlined how the proposed system would be structured using different layers, including the presentation layer, API/application layer, domain layer, data access layer and database.
+
+As Developer, understanding these requirements was important because they provided direction for the technical implementation of the system.
+
+**Evidence – User Stories and Architectural Solution**
+
+![User Stories – Page 1](images/User%20Stories.png)
+
+![User Stories – Page 2](images/User%20Stories2.png)
+
+### STAR Reflection – User Stories and Architecture
+
+**Situation**
+
+During the planning and requirements phase, our team needed to establish what functionality the Perfume Velour Essence platform should provide and how the system would be structured.
+
+**Task**
+
+My responsibility was to understand the functional requirements from a developer's perspective and consider how the different user requirements could be translated into technical features.
+
+**Action**
+
+I reviewed the user stories and architectural solution to understand the expected functionality, including custom scent creation, product personalisation, customer accounts and checkout. I also considered the proposed system layers and how the frontend, backend and database would interact.
+
+**Result**
+
+This improved my understanding of requirements analysis and how architectural planning guides software development. It also gave me a clearer technical direction when considering how the system's features would be implemented.
+
+---
+
+## 3. Product Backlog
+
+The product backlog was used to organise the project's requirements and planned features.
+
+It provided the team with an overview of the work that needed to be completed throughout the development process.
+
+The backlog included different sprint objectives, covering research and planning, product development, branding and design, suppliers and pricing, website requirements, marketing and launch activities.
+
+As Developer, the backlog helped me understand the project's overall priorities and the technical work that would contribute towards delivering the final product.
+
+**Evidence – Product Backlog**
+
+![Perfume Velour Essence Product Backlog](images/Product%20backlog.png)
+
+### STAR Reflection – Product Backlog
+
+**Situation**
+
+Our project involved several different activities and deliverables that needed to
