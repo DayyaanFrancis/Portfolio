@@ -1,7 +1,11 @@
 # Dayyaan Francis – GitHub Portfolio
 
 ## About Me
-
+<p align="center">
+  <a href="#semester-2--work-readiness-portfolio">
+    <strong>➡ VIEW SEMESTER 2 PORTFOLIO</strong>
+  </a>
+</p>
 Hello, my name is **Dayyaan Francis**.
 
 I am a third-year **Information and Communication Technology (Applications Development)** student at the Cape Peninsula University of Technology (CPUT). This portfolio showcases my technical skills, work readiness training, and professional development.
